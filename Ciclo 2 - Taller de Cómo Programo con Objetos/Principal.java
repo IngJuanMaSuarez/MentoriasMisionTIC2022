@@ -14,6 +14,6 @@ public class Principal {
         miPersonaje.setValorComercial(56);
         System.out.println(miPersonaje.getValorComercial());
 
-        System.out.println(miPersonaje.correr());
+        miPersonaje.correr();
     }
 }
